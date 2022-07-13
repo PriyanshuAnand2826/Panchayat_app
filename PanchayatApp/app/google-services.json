@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "360860189895",
+    "project_id": "panchayat-49d6b",
+    "storage_bucket": "panchayat-49d6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360860189895:android:c96299d2b51be3e9be2ae2",
+        "android_client_info": {
+          "package_name": "com.rishabh.panchayat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360860189895-e3e1bat2ll85mlq7koomvej0i7h5jf96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6EDSUP3hcUe5shmBAxqMPeNpmCIcwBls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360860189895-e3e1bat2ll85mlq7koomvej0i7h5jf96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Panchayat App</string>
+    <string name="submit">Submit</string>
+    <string name="enter_your_ward_no">Enter your Ward No</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_id">Enter ID</string>
+    <string name="enter_pass">Enter Password</string>
+    <string name="enter_meeting">Enter Meeting</string>
+    <string name="enter_rashan">Enter Rashan</string>
+    <string name="image">image</string>
+    <string name="welcome_admin">Welcome Admin</string>
+    <string name="panchayat">Panchayat</string>
+    <string name="enter_details">Enter Details</string>
+    <string name="meeting_details">Meeting Details</string>
+    <string name="enter_meeting_details">Enter Meeting Details</string>
+    <string name="enter_rashan_details">Enter Rashan Details</string>
+    <string name="rashan_details">Rashan Details</string>
+    <string name="log_out">Log out</string>
+</resources>
